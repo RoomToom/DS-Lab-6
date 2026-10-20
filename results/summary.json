@@ -1,0 +1,12 @@
+{
+  "input_rows": 6497,
+  "cleaned_rows": 5024,
+  "removed_rows": 1473,
+  "n_clusters": 3,
+  "silhouette_score": 0.5593110157598145,
+  "cluster_sizes": {
+    "0": 2668,
+    "1": 1675,
+    "2": 681
+  }
+}
